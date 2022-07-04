@@ -1,0 +1,13 @@
+{
+	"manifest_version": 1,
+	"id": "com.arash28134.DiscordPresence",
+	"app_min_version": "2.8",
+	"version": "1.0.0",
+	"name": "Discord Rich Presence",
+	"description": "A Discord Rich Presence Plugin For Joplin",
+	"author": "arash28134",
+	"homepage_url": "",
+	"repository_url": "https://github.com/arash28134/joplin-discord-rich-presence",
+	"keywords": [],
+	"categories": []
+}
