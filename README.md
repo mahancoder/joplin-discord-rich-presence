@@ -16,4 +16,4 @@ A simple plugin to show the current note that you are editing in Joplin as your 
   ```
 
 ## Current issues
-We currently have no way of detecting whether the app's window is open or it's minimized to tray, so even if the app is minimized, your status is gonna show as editing your last note.
+At the moment we have no way of detecting whether the app's window is open or it's minimized to tray, so even if the app is minimized, your status is gonna show as editing your last note.
