@@ -1,5 +1,7 @@
 # Joplin Discord Rich Presence Plugin
-A simple plugin to show the current note that you are editing in Joplin as your Discord status
+A simple plugin to show the current note that you are editing in Joplin as your Discord status.
+
+![Alt text](preview.jpg?raw=true "Preview Image")
 
 ## Installation
 - To install the plugin, download the `jpl` file from the [latest release](https://github.com/arash28134/joplin-discord-rich-presence/releases/latest). 
